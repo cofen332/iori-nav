@@ -29,7 +29,7 @@ id = "PASTE_YOUR_KV_NAMESPACE_ID_HERE"
 ENABLE_PUBLIC_SUBMISSION = false
 SITE_NAME = "灰色轨迹"
 SITE_DESCRIPTION = "一个优雅、快速、易于部署的书签（网址）收藏与分享平台，完全基于 Cloudflare 全家桶构建"
-FOOTER_TEXT = "曾梦想仗剑走天涯"
+FOOTER_TEXT = "cofen"
 ICON_API = "https://faviconsnap.com/api/favicon?url="
 AI_REQUEST_DELAY = "1500"
 
